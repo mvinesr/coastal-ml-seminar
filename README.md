@@ -19,3 +19,11 @@ Machine Learning and Deep Learning applied to Coastal Engineering.
 conda env create -f environment.yml
 conda activate coastal-ml-seminar
 jupyter notebook
+
+
+pip install -r requirements.txt
+jupyter notebook
+
+
+---
+
